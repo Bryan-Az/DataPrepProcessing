@@ -1,0 +1,10 @@
+cycler
+matplotlib
+numpy
+pyparsing
+setuptools
+python-dateutil
+pytz
+scipy
+six
+wheel
