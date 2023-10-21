@@ -1,3 +1,4 @@
+Link to the medium article: https://medium.com/@bryanambzam/diverse-data-unified-exploration-a-project-overview-as-told-by-chat-gpt-4-3653f5e0ed00
 # Data Processing and Prep
 
 Processing data and preparing for use in ML models on 7 different kinds of data types.
